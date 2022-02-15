@@ -1,7 +1,7 @@
 
 #Password Checker and Generator - Katarina Bartekova
 #Checks the strength of user-given password/s, and then suggests random, very strong password
-#Function documentation
+#FUNCTION DOCUMENTATION 
 
 import csv
 import random
