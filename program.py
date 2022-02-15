@@ -1,6 +1,7 @@
 
-#Password Checker and Generator ACTUAL PROGRAM
+#Password Checker and Generator by Katarina Bartekova
 #Checks the strength of user-given password/s, and then suggests random, very strong password
+#ACTUAL PROGRAM
 
 
 import csv
