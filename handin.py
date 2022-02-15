@@ -1,5 +1,5 @@
-#Exam IPN3387, Katarina Bartekova, i6211750
-#Password Checker and Generator
+
+#Password Checker and Generator ACTUAL PROGRAM
 #Checks the strength of user-given password/s, and then suggests random, very strong password
 
 
